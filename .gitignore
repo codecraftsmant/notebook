@@ -1,0 +1,9 @@
+.bash_logout
+.bashrc
+.config/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.profile
+**/.ipynb_checkpoints/**
